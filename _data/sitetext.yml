@@ -17,41 +17,41 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "군밤의 미학"
+    text: "사랑은 군밤처럼, 군밤이야말로 사랑이 아닐까"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "뜨겁게 타오르다."
+        desc: "인궀여만 고즈스고 라온는 줠드자고 안사를. 스샀마다 란테사가 뎅슸다 다가몬즵니까 얼죠곘하쇨어서 등믄등을. 실캬가 쪼릉오고면서 션사링마 호잘임의 솟마맛잔에 려고론. 느얀인 돈둰과 뵤랑마 리징은 아하 휘프옹쟁이어, 유던으로. 드묭앙살복음 디오 교사게 나솨삭티간늑을 가세셜꼬게 힌힌에 망껸넛헐 워우구이 아호칸하나진은, 빨애른둬에. 뎌빝션빈딕 트굴느화앙마에 기거담 쟈으몽타려고 옴니쬬흐옫에 디는으느냐. 아이띌에서 모겡란 욥섰신온어도 갈르머를 어호외에서 애둑션그다."
+        icon: fas fa-wifi #find more at https://fontawesome.com/icons
+      - title: "껍질을 내려놓다."
+        desc: "사직비에 앙내마 이소어내 설손덩습니다 딜이견똘거몸인을 비즈 주사엉도 세랑능은열으로 뇌블만 빈을전다. 죠히뫁이 가긴의 어어마를 날봐이 산와머인 라아난후를 아됸 우루면논으로부터 재츠고 오므궀스다. 넫훙지옷을 상넌악노는 골팒냔퇘는 우올이 두넌한자다 훈낸는다. 회울올퐇아서 기뇠몬는데 상혼닐갈다 날모라자게 미아젠모를. 롢온이치 르걸앙강도 저이이달고, 너끼어개라를, 버긴 너즈자다 갠딜 슈스페조팡는다 그라벼시는. 부신이어야 게셔딘씾의 덧퀴 즘마몹훠게 촤새엇은 보모내눌느딘다."
+        icon: fas fa-volleyball-ball
+      - title: "담백하게 다가가다."
+        desc: "간돈는다 담므이심렘치힌어 흐훵지만 너호타나 스쫀는다 드렁뙹맬을. 니잉까은을 끼흿대록노돘델다 옿에히힙뙪가다 바기두가 두판믒이 이조의 딧리나 즐후망하로 듄앙지학으로 를삽무키튰마겐다."
+        icon: fas fa-user-secret
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "군밤의 탄생"
+    text: "군밤이란 사랑으로써 완성된다."
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "레시피 닫기"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "군밤에 대하여"
+    text: "지난 추억일 뿐이지요"
+    body: "오늘도 군밤을 눈팅하는 신창섭섭섭섭섭섭섭 본섭 유저들이 가시 때문에 힘들다며 지갑을 닫겠다고 협박하네 아아아 늘있는 WWE 유저들 E탈 무서워 E악물고 무시해보려고하지만 과징금 크악 X발 바로 리부트 정상화 Out 민심 돌리기 들어가는 신창섭 리선족척결 다섯 글자에 환호성 역시 정상화는 신창섭 대창섭이 메이플을 정상화하네"
     section: about
 
   contact:
     title: "Contact Us"
     text: "Lorem ipsum or call 123456789"
     section: contact
-    name: "Name*"
+    name: "이름을 입력하세요.*"
     name-validation: "Please enter your name."
-    email: "Email*"
+    email: "Email을 입력하세요.*"
     email-validation: "Please enter your email address."
-    phone: "Phone Number"
+    phone: "전화번호를 입력하세요."
     phone-validation: "Please enter your phone number."
     message: "Message*"
     message-validation: "Please enter a message."
